@@ -1,0 +1,9 @@
+packages
+TestResults
+bin
+obj
+*.ide-wal
+*.suo
+*.lock
+/Automated.Desktop.Tests/.vs/Automated.Desktop.Tests/v15/Server/sqlite3/*.ide
+*.ide-shm
